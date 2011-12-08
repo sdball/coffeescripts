@@ -1,0 +1,16 @@
+html { height: 100% }
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 20px;
+}
+#mapCanvas {
+  height: 90%;
+  width: 90%;
+  border: 6px solid #555;
+  margin: 10px auto;
+}
+#inputs {
+  position: relative;
+  left: 65px;
+}
